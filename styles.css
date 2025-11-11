@@ -88,7 +88,7 @@ html, body {
   height: 100%;
   background-size: cover;
   background-position: center;
-  transition: opacity 1s ease-in-out;
+  transition: opacity 0.5s ease-in-out;
   opacity: 0;
   z-index: 0;
 }
@@ -508,4 +508,5 @@ ul.social-icons li a {
         flex-direction: column;
         align-items: start;
     }
+
 }
